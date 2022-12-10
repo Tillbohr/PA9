@@ -1,0 +1,153 @@
+﻿  bullet.cpp
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(10,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(12,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  functions.cpp
+  Game.cpp
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(10,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(12,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(35,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(22,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(23,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(23,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(24,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\Game.cpp(34,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\Game.cpp(45,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(10,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(12,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(35,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(22,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(23,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(23,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(24,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  player.cpp
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(10,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(11,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\bullet.h(12,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(35,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(22,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(23,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(23,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\tyler\OneDrive\Documents\PA9-main\Project1\player.h(24,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  LINK : C:\Users\tyler\OneDrive\Documents\PA9-main\x64\Debug\Project1.exe not found or not built by the last incremental link; performing full link
+  Project1.vcxproj -> C:\Users\tyler\OneDrive\Documents\PA9-main\x64\Debug\Project1.exe
